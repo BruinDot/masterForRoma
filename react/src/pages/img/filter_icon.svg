@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1077"
+   sodipodiDocname="filter_icon.svg"
+   inkscapeVersion="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlnsSvg="http://www.w3.org/2000/svg">
+  <sodipodiNamedview
+     id="namedview1079"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscapeShowpageshadow="2"
+     inkscapePageopacity="0.0"
+     inkscapePagecheckerboard="0"
+     inkscapeDeskcolor="#d1d1d1"
+     showgrid="false"
+     inkscapeZoom="25.4375"
+     inkscapeCx="15.980344"
+     inkscapeCy="16"
+     inkscapeWindow-width="1920"
+     inkscapeWindow-height="1017"
+     inkscapeWindow-x="-8"
+     inkscapeWindow-y="-8"
+     inkscapeWindow-maximized="1"
+     inkscapeCurrent-layer="svg1077" />
+  <defs
+     id="defs1067">
+    <style
+       id="style1065">.cls-1{fill:none;}</style>
+  </defs>
+  <title
+     id="title1069" />
+  <g
+     data-name="Layer 2"
+     id="Layer_2"
+     style="fill:#ffffff">
+    <path
+       d="M13,28a1,1,0,0,1-.53-.15A1,1,0,0,1,12,27V17.38L4.28,8.81A5,5,0,0,1,3,5.46V5A1,1,0,0,1,4,4H28a1,1,0,0,1,1,1v.46a5,5,0,0,1-1.28,3.35L20,17.38v5.38a3,3,0,0,1-1.66,2.69l-4.89,2.44A1,1,0,0,1,13,28ZM5.05,6a3,3,0,0,0,.72,1.47l8,8.86A1,1,0,0,1,14,17v8.38l3.45-1.72a1,1,0,0,0,.55-.9V17a1,1,0,0,1,.26-.67l8-8.86A3,3,0,0,0,27,6Z"
+       id="path1071"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="frame">
+    <rect
+       class="cls-1"
+       height="32"
+       width="32"
+       id="rect1074" />
+  </g>
+</svg>

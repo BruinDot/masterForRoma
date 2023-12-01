@@ -1,0 +1,84 @@
+/* .createContainer{
+    display: flex;
+    margin: 0 auto;
+    max-width: 400px;
+    background-color: #0a0b0f;
+    /* background-color: #dedede; */
+    /* box-shadow: 1px 10px 8px #0a0b0f;
+    border-radius: 10px;
+    flex-direction: column;
+    text-align: center;
+    gap: 50px;
+    padding: 40px 20px 40px 20px; 
+} */
+.modalWindow {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    /* background-color: #fff; */
+    background-color: #0a0b0f;
+    /* background-color: #dedede; */
+    box-shadow: 1px 10px 8px #0a0b0f;
+    border-radius: 10px;
+    flex-direction: column;
+    text-align: center;
+    gap: 50px;
+    padding: 40px 20px 40px 20px;
+}
+.send {
+    background-color: #c31c1c !important;
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 6px;
+}
+.input {
+    background-color: #1a1b1f;
+    width: 100%;
+    font-size: 1rem;
+    height: 36px;
+    padding: 0 10px;
+    border-radius: 4px;
+}
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+}
+
+.modal {
+  /* background-color: rgb(117, 117, 117);
+  padding: 20px;
+  border-radius: 4px; */
+  max-width: 400px;
+  display: flex;
+  background-color: #0a0b0f;
+    /* background-color: #dedede; */
+    box-shadow: 1px 10px 8px #0a0b0f;
+    border-radius: 10px;
+    flex-direction: column;
+    text-align: center;
+    gap: 50px;
+    padding: 40px 20px 40px 20px;
+    overflow: hidden;
+}
+.modalContent {
+  margin: 0 auto;
+  min-width: 300px;
+}
+.modal h2 {
+  margin-top: 0;
+}
+.modal form {
+  width: 100%;
+}
+
+.modal button {
+  margin-top: 10px;
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 1024 1024"
+   class="icon"
+   version="1.1"
+   id="svg19"
+   sodipodiDocname="right-arrow-backup-2-svgrepo-com.svg"
+   inkscapeVersion="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlnsSvg="http://www.w3.org/2000/svg">
+   {
+      filter:drop-shadow(-1px 1px 8px #c31c1c)
+   }
+  <defs
+     id="defs23" />
+  <sodipodiNamedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscapeShowpageshadow="2"
+     inkscapePageopacity="0.0"
+     inkscapePagecheckerboard="0"
+     inkscapeDeskcolor="#d1d1d1"
+     showgrid="false"
+     inkscapeZoom="1.0175"
+     inkscapeCx="223.58722"
+     inkscapeCy="400"
+     inkscapeWindow-width="1920"
+     inkscapeWindow-height="1017"
+     inkscapeWindow-x="-8"
+     inkscapeWindow-y="-8"
+     inkscapeWindow-maximized="1"
+     inkscapeCurrent-layer="svg19" />
+  <path
+     d="M256 120.768L306.432 64 768 512l-461.568 448L256 903.232 659.072 512z"
+     fill="#000000"
+     id="path17"
+     style="fill:#c31c1c;fill-opacity:1;" />
+</svg>

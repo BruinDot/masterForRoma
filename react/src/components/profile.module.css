@@ -1,0 +1,31 @@
+.center {
+	margin: 0 auto;
+	text-align: start; 
+	max-width: 500px; 
+	background-color: rgb(194, 194, 194); 
+	border-radius: 10px;
+	line-height: 4;
+}
+.container {
+	margin: 0 auto;
+	padding: 10px;
+	max-width: 500px;
+	color: #1e1e1e;
+	font-size: 14px;
+}
+.text {
+	margin-right: 10px;
+}
+input {
+	background-color: #afafaf !important; 
+	padding: 10px 5px !important; 
+	border-radius: 8px!important; 
+	border: 1px solid #dbdbdb;
+	width: max-content !important;
+}
+.save {
+	padding: 10px;
+	background-color: #04c103;
+	border-radius: 6px;
+	color: #f4fff4;
+}

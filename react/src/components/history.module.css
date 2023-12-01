@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 1024px;
+    /* color: #000000; */
+    color: #1e1e1e;
+    font-size: 14px;
+}
+.order__container {
+    display: flex;
+    flex-direction: column;
+}
+.orderBlock {
+    display: flex;
+    justify-content: space-between;
+    gap: 0 1px;
+    width: 1024px;
+}
+.orderItem {
+    width: 500px;
+    text-align: center;
+}

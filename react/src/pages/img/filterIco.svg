@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlnsSvg="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <symbol id="svg_3" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <style>.cls-1{fill:none;}</style>
+   </defs>
+   <title/>
+   <g data-name="Layer 2" id="svg_2">
+    <path d="m13,28a1,1 0 0 1 -0.53,-0.15a1,1 0 0 1 -0.47,-0.85l0,-9.62l-7.72,-8.57a5,5 0 0 1 -1.28,-3.35l0,-0.46a1,1 0 0 1 1,-1l24,0a1,1 0 0 1 1,1l0,0.46a5,5 0 0 1 -1.28,3.35l-7.72,8.57l0,5.38a3,3 0 0 1 -1.66,2.69l-4.89,2.44a1,1 0 0 1 -0.45,0.11zm-7.95,-22a3,3 0 0 0 0.72,1.47l8,8.86a1,1 0 0 1 0.23,0.67l0,8.38l3.45,-1.72a1,1 0 0 0 0.55,-0.9l0,-5.76a1,1 0 0 1 0.26,-0.67l8,-8.86a3,3 0 0 0 0.74,-1.47l-21.95,0z"/>
+   </g>
+   <g id="svg_1">
+    <rect class="cls-1" height="32" width="32"/>
+   </g>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <use fill="#ffffff" id="svg_4" transform="matrix(5 0 0 5 0 0)" x="0" xlink:href="#svg_3" y="0"/>
+ </g>
+</svg>
